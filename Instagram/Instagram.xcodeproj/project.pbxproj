@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		075B875D2646052F002F5322 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075B875C2646052E002F5322 /* CommentCell.swift */; };
 		075E94EE263B507C0082233F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075E94ED263B507C0082233F /* AppDelegate.swift */; };
 		075E94F0263B507C0082233F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075E94EF263B507C0082233F /* SceneDelegate.swift */; };
 		075E94F5263B507C0082233F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 075E94F3263B507C0082233F /* Main.storyboard */; };
@@ -41,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		075B875C2646052E002F5322 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		075E94EA263B507C0082233F /* Instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		075E94ED263B507C0082233F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		075E94EF263B507C0082233F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 			isa = PBXGroup;
 			children = (
 				075E94ED263B507C0082233F /* AppDelegate.swift */,
+				075B875C2646052E002F5322 /* CommentCell.swift */,
 				075E94EF263B507C0082233F /* SceneDelegate.swift */,
 				075E94F3263B507C0082233F /* Main.storyboard */,
 				075E94F6263B507F0082233F /* Assets.xcassets */,
@@ -421,6 +424,7 @@
 				075E9535263B53EC0082233F /* FeedViewController.swift in Sources */,
 				075E94F0263B507C0082233F /* SceneDelegate.swift in Sources */,
 				07D28ABE263BA7D60042F24D /* PostCell.swift in Sources */,
+				075B875D2646052F002F5322 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
